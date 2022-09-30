@@ -1,7 +1,6 @@
 #' @export
-something_else <- function(){
-  list_fun[[1]]()
-  NULL
+something_else <- function(a){
+  list_fun[[1]](a)
 }
 
 #' @export

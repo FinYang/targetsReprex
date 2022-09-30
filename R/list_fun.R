@@ -1,2 +1,4 @@
 #' @export
-list_fun <- list(function(){})
+list_fun <- list(function(a){as.list(environment())})
+
+
