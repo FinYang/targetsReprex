@@ -5,5 +5,5 @@ test_s3 <- function(x){
 
 #' @export
 test_s3.numeric <- function(x){
-  x+1
+  x+2
 }
