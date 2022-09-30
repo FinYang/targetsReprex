@@ -2,5 +2,6 @@
 
 S3method(test_s3,numeric)
 export(list_fun)
+export(something_constant)
 export(something_else)
 export(test_s3)
