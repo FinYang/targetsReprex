@@ -4,4 +4,4 @@ something_else <- function(a){
 }
 
 #' @export
-something_constant <- 2
+something_constant <- 3
